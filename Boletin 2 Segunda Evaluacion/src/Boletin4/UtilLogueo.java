@@ -14,8 +14,8 @@ public class UtilLogueo {
 		this.contraseña=contraseña;
 	}
 	
-	public static Usuario realizarLogin() {
-
+	public static Usuario realizarLogin(String usuario, String contraseña) {
+		
 	}
 	
 	
